@@ -1,6 +1,6 @@
 ### Hey, I'm Tim
 
-Full-stack developer based in Almaty, Kazakhstan. Building Xtmetrix — using AI to help businesses with marketing.
+Full-stack developer based in Almaty, Kazakhstan. Building [Xtmetrix](https://xtmetrix.com) — using AI to help businesses with marketing.
 
 Also building NoteHavoc and TodoHavoc. Mostly working with Vite, Express, Node.js, and React Native.
 
