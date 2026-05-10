@@ -1,7 +1,7 @@
-### Hey, I'm Tim
+# Hey, I'm Tim
 
-Full-stack developer based in Almaty, Kazakhstan. Experimenting with different startup ideas right now.
+I'm a full-stack developer based in Almaty, Kazakhstan.
 
-Also building an AI notes manager and an AI task manager. I mostly work with Vite, Express, Node.js, and React Native.
+Right now, I'm building an AI-first B2B SaaS product and experimenting with a few smaller open-source projects.
 
 [tairov.dev](https://tairov.dev) · [linkedin](https://www.linkedin.com/in/ttairov/) · [x](https://x.com/tim_tairov) · tim@tairov.dev
